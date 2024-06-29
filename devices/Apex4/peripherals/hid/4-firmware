@@ -1,0 +1,20 @@
+# Flydigi Flydigi APEX 4
+# 0x06, 0xef, 0xff,              // Usage Page (Vendor Usage Page 0xffef) 0
+# 0x09, 0x00,                    // Usage (Vendor Usage 0x00)           3
+# 0xa1, 0x01,                    // Collection (Application)            5
+# 0x85, 0x05,                    //  Report ID (5)                      7
+# 0x15, 0x00,                    //  Logical Minimum (0)                9
+# 0x26, 0xff, 0x00,              //  Logical Maximum (255)              11
+# 0x95, 0x3f,                    //  Report Count (63)                  14
+# 0x75, 0x08,                    //  Report Size (8)                    16
+# 0x09, 0x01,                    //  Usage (Vendor Usage 0x01)          18
+# 0x81, 0x02,                    //  Input (Data,Var,Abs)               20
+# 0x09, 0x02,                    //  Usage (Vendor Usage 0x02)          22
+# 0x91, 0x02,                    //  Output (Data,Var,Abs)              24
+# 0x09, 0x03,                    //  Usage (Vendor Usage 0x03)          26
+# 0xb1, 0x02,                    //  Feature (Data,Var,Abs)             28
+# 0xc0,                          // End Collection                      30
+# 
+R: 31 06 ef ff 09 00 a1 01 85 05 15 00 26 ff 00 95 3f 75 08 09 01 81 02 09 02 91 02 09 03 b1 02 c0
+N: Flydigi Flydigi APEX 4
+I: 3 04b4 2412
