@@ -1,0 +1,1 @@
+Bus 001 Device 033: ID 04b4:2412 Cypress Semiconductor Corp. Flydigi APEX 4

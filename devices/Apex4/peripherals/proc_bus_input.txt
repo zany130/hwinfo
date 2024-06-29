@@ -1,0 +1,23 @@
+I: Bus=0003 Vendor=04b4 Product=2412 Version=0111
+N: Name="Flydigi Flydigi APEX 4"
+P: Phys=usb-0000:02:00.0-1.4.1/input0
+S: Sysfs=/devices/pci0000:00/0000:00:01.3/0000:02:00.0/usb1/1-1/1-1.4/1-1.4.1/1-1.4.1:1.0/0003:04B4:2412.0058/input/input167
+U: Uniq=
+H: Handlers=event23 js2 
+B: PROP=0
+B: EV=1b
+B: KEY=f 0 0 0 0 4000 0 efff000000000000 0 0 0 0
+B: ABS=30627
+B: MSC=10
+
+I: Bus=0003 Vendor=04b4 Product=2412 Version=0111
+N: Name="Flydigi Flydigi APEX 4"
+P: Phys=usb-0000:02:00.0-1.4.1/input1
+S: Sysfs=/devices/pci0000:00/0000:00:01.3/0000:02:00.0/usb1/1-1/1-1.4/1-1.4.1/1-1.4.1:1.1/0003:04B4:2412.0059/input/input168
+U: Uniq=
+H: Handlers=event27 mouse4 
+B: PROP=0
+B: EV=17
+B: KEY=1f0000 0 0 0 0
+B: REL=903
+B: MSC=10
